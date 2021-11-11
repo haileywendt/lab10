@@ -1,0 +1,4 @@
+﻿  lab10.cpp
+H:\lab10\lab10\lab10.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+H:\lab10\lab10\lab10.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+  lab10.vcxproj -> H:\lab10\Debug\lab10.exe
